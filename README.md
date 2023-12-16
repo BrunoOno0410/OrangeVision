@@ -33,7 +33,7 @@ O objetivo principal deste projeto é substituir métodos tradicionais de classi
 
 ## Resultados
 
-Os resultados obtidos estão detalhados no [artigo científico]([link_para_o_seu_artigo](https://docs.google.com/document/d/1CsSunLINVivmgwaVONfCcf51H9f-kNDH/edit?usp=sharing&ouid=101219861240347102046&rtpof=true&sd=true)) associado a este projeto. A análise inclui desempenho dos classificadores tradicionais e da rede neural, além de insights sobre o impacto do tamanho do conjunto de dados na eficácia do modelo.
+Os resultados obtidos estão detalhados no [artigo científico](https://docs.google.com/document/d/1CsSunLINVivmgwaVONfCcf51H9f-kNDH/edit?usp=sharing&ouid=101219861240347102046&rtpof=true&sd=true) associado a este projeto. A análise inclui desempenho dos classificadores tradicionais e da rede neural, além de insights sobre o impacto do tamanho do conjunto de dados na eficácia do modelo.
 
 ## Contribuições
 
